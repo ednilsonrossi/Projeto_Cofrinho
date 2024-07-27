@@ -4,6 +4,7 @@ import model.coin.*;
 import model.piggyBank.Cofrinho;
 import model.piggyBank.Montinhos;
 
+/* Teste de commit */
 public class Main {
     
     public static final Scanner input = new Scanner(System.in);
